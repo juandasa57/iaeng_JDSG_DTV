@@ -1,9 +1,9 @@
-# Proyecto 
+# Proyecto House Prices - Advanced Regression Techniques
 
 ## Miembros del grupo
 
-- Pepito Perez, CC xxxxx, Ingeniería de Sistemas
-- Juanita Juanez, CC xxxxx, Ingeniería Civil
+- Juan David Sandoval Guerrero, CC 1123633172, Ingeniería Eléctrica
+- Daniela tuberquia villa, CC 1214744776, Ingeniería Eléctrica
 
 ## Datos
 
